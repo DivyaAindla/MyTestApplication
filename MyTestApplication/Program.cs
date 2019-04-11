@@ -10,6 +10,7 @@ namespace MyTestApplication
     {
         static void Main(string[] args)
         {
+            //this is some sample code
         }
     }
 }
